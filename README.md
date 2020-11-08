@@ -16,15 +16,17 @@
 <br />
 <br />
 
- 🧪 I'm an Engineer by profession and a Teacher by passion. I studied a Masters in Electronic and a PhD in Automatic Control (Dinamic Systems) at CINVESTAV, Mexico. 
+ 🧪 I'm an Engineer by profession and a Teacher by passion. 
  
-I also speak at colleges and technical conferences. I'm just an invite away - mcruzg.cg@gmail.com
+ 📍 I studied a Masters in Electronic and a PhD in Automatic Control (Dinamic Systems) at CINVESTAV, Mexico. 
+ 
+ 🕴 I also speak at colleges and technical conferences. I'm just an invite away - mcruzg.cg@gmail.com
 Technologies:
-- Python (Pandas,scikit learn,SciPy,TensorFlow,Keras), R, Aws-Sagemaker, EMR, Pyspark,kubernetes, docker, SQL,Scala 
-- dynamic systems, markov chains, monte carlo simulation, optimization, Neuronal Networks  and genetic algorithm
+- Python (Pandas 🐼 ,scikit learn,SciPy,TensorFlow,Keras), R, Aws-Sagemaker, EMR, Pyspark,kubernetes, docker, SQL,Scala 
+- dynamic systems 🌟 , markov chains, monte carlo simulation, optimization, Neuronal Networks  and genetic algorithm
 
 Also interested in:
-- Machine Learning, Deep Learning, reinforcing learning, data visualization and data pipeline architecture
+-  🥧 Machine Learning, Deep Learning, reinforcing learning, data visualization and data pipeline architecture
 
 Cheers,  
 Maria Cruz
