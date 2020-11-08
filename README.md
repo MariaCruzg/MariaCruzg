@@ -10,7 +10,7 @@
 <a href="https://twitter.com/cgmcruzg ">
   <img align="left" alt="Maria Cruz - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<a href="www.facebook.com/chelimskyCruz">
+<a href="https://www.facebook.com/chelimskyCruz">
   <img align="left" alt="Maria Cruz - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 <br />
